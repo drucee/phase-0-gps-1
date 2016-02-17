@@ -3,7 +3,7 @@
 *ITALICS*
 
 ```javascript
-code block here
+code bloc here
 ```
 
 [link demo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -11,4 +11,4 @@ code block here
 
 ![ScreenShot]("DemoSS.png")
 
-
+holy mackerel!
